@@ -56,7 +56,7 @@
       "currency": "$",
       "billing": "month",
       "tagline": "Best for growing teams",
-      "badge": "Most Popular",
+      "badge": true,
       "features": [
         "10 Users",
         "Unlimited Projects",
@@ -79,7 +79,7 @@
       "currency": "$",
       "billing": "month",
       "tagline": "For large scale businesses",
-      "badge": "Best Value",
+      "badge": null,
       "features": [
         "Unlimited Users",
         "Unlimited Projects",
