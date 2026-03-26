@@ -1,0 +1,10 @@
+/* Tailwind import */
+@import "tailwindcss";
+/* Daisy UI import */
+@plugin "daisyui";
+
+/* Roboto font applied */
+body{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}

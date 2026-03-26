@@ -1,0 +1,98 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Free",
+      "price": 0,
+      "currency": "$",
+      "billing": "forever",
+      "tagline": "Perfect for getting started",
+      "badge": null,
+      "features": [
+        "1 User",
+        "5 Projects",
+        "1GB Storage",
+        "Basic Analytics",
+        "Email Support",
+        "API Access"
+      ],
+      "limitations": [
+        "No Custom Domain",
+        "No Priority Support",
+        "BashBazar Branding"
+      ],
+      "cta": "Get Started",
+      "highlighted": false
+    },
+    {
+      "id": 2,
+      "name": "Starter",
+      "price": 9,
+      "currency": "$",
+      "billing": "month",
+      "tagline": "Great for freelancers & individuals",
+      "badge": null,
+      "features": [
+        "3 Users",
+        "20 Projects",
+        "10GB Storage",
+        "Advanced Analytics",
+        "Email & Chat Support",
+        "API Access",
+        "Custom Domain",
+        "Remove Branding"
+      ],
+      "limitations": [
+        "No Team Collaboration",
+        "No Dedicated Manager"
+      ],
+      "cta": "Start Free Trial",
+      "highlighted": false
+    },
+    {
+      "id": 3,
+      "name": "Pro",
+      "price": 29,
+      "currency": "$",
+      "billing": "month",
+      "tagline": "Best for growing teams",
+      "badge": "Most Popular",
+      "features": [
+        "10 Users",
+        "Unlimited Projects",
+        "50GB Storage",
+        "Full Analytics & Reports",
+        "Priority Support 24/7",
+        "API Access",
+        "Custom Domain"
+      ],
+      "limitations": [
+        "No Dedicated Account Manager"
+      ],
+      "cta": "Get Pro",
+      "highlighted": true
+    },
+    {
+      "id": 4,
+      "name": "Enterprise",
+      "price": 99,
+      "currency": "$",
+      "billing": "month",
+      "tagline": "For large scale businesses",
+      "badge": "Best Value",
+      "features": [
+        "Unlimited Users",
+        "Unlimited Projects",
+        "500GB Storage",
+        "Custom Analytics Dashboard",
+        "Dedicated Account Manager",
+        "24/7 Phone & Email Support",
+        "API Access",
+        "Custom Domain"
+      ],
+      "limitations": [],
+      "cta": "Contact Sales",
+      "highlighted": false
+    }
+  ]
+}
